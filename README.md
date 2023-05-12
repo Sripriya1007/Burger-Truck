@@ -1,4 +1,4 @@
-#<b>Burger-Truck </b>
+# Burger-Truck 
 
 ### Introduction:
 
