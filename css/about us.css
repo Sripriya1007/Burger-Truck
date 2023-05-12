@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+
+
+body{
+	background :url('../images/top-view-delicious-fresh-salad.jpg') center no-repeat;
+	width: 1000px;
+    margin: 10px auto;
+    height: 700px;
+	background-size: cover;
+	background-position: fixed;
+	text-align: left;
+	padding: 10px 30px 20px 5px ;
+	font-family:Sigmar;
+	word-wrap: break-word;
+	text-align: left;
+}
+div{
+
+	font-size: 40px;
+}
+

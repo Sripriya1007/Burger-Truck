@@ -1,0 +1,18 @@
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap');
+
+
+body{
+	background : url('../images/top-view-burger.jpg')center no-repeat; 
+	width: 1000p x;
+    margin: 100px 100px 100px 100px auto;
+    height: 1000px;
+	background-size: cover;
+	background-position: fixed;
+	font-family: 'Kanit', sans-serif;
+	border: 8rem;
+	font-size: 20px;
+
+
+}
